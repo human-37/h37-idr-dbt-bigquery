@@ -1,0 +1,8 @@
+version: 2
+  
+sources:
+
+  - name: dataset_name
+    tables:
+      - name: source_1
+        identifier: source_1
