@@ -1,5 +1,7 @@
 # Introduction
 
+<img src="https://i.ibb.co/HL7Sfh1L/Screenshot-2025-07-26-at-00-09-22-removebg-preview.png" alt="IDR logo" width="300">
+
 This DBT module provides a framework for identity resolution. It is meant to solve the challenges of complex joins inbetween many tables to build a so-called 360 view of users.
 
 To do so, the process scans defined models for identifiers. It then builds nodes and edges from these occurences, and resolves identities with a connected component algorithm. 
