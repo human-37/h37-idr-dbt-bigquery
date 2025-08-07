@@ -1,6 +1,6 @@
 # Introduction
 
-<img src="https://i.ibb.co/HL7Sfh1L/Screenshot-2025-07-26-at-00-09-22-removebg-preview.png" alt="IDR logo" width="300">
+![idr_logo](/images/idr_logo.png)
 
 This DBT module provides a framework for identity resolution. It is meant to solve the challenges of complex joins inbetween many tables to build a so-called 360 view of users.
 
