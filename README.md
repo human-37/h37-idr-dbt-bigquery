@@ -69,7 +69,7 @@ The table `unification_iterations_metrics` provides a detail on the number of un
 
 ## 5. Run the models
 
-Run the following command to execute the unification flow: `dbt build --models unification`.
+Run the following command to execute the unification flow: `dbt build --select models unification`.
 
 For small data volumes, it is expected to take a few minutes. For larger data volumes (>10M nodes), it is expected to take between 15-20min. If the process is running too slow, consider decreasing the `iterations` parameter (See above).
 
